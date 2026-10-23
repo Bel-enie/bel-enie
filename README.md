@@ -52,12 +52,6 @@ Live market signals go through a deterministic rule engine and come back as one 
 
 [Live](https://basis-peach-nu.vercel.app) · [Source](https://github.com/Bel-enie/Basis)
 
-### [ScopeShield](https://github.com/Bel-enie/Scopeshield)
-
-**A Flask SaaS that catches scope creep for freelancers and agencies.** Every client request comes back In Scope, Ambiguous or Out of Scope, with a change order ready to send.
-
-[Live](https://scopeshield-five.vercel.app) · [Source](https://github.com/Bel-enie/Scopeshield)
-
 ## Recognition
 
 | Result | Event | Year |
