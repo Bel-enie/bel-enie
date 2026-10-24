@@ -61,7 +61,7 @@ Live market signals go through a deterministic rule engine and come back as one 
 
 ## Tools
 
-**Core:** prompt engineering, OpenAI API, TypeScript, JavaScript, React, Node.js, Python, Flask, PostgreSQL
+**Core:** prompt engineering, OpenAI API, Anthropic, TypeScript, JavaScript, React, Node.js, Python, Flask, PostgreSQL
 
 **Also used:** Next.js, Express, FastAPI, MongoDB, Tailwind CSS, Vitest
 
