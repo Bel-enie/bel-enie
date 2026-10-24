@@ -16,7 +16,7 @@ Open to internships, freelance work and collaborations.
 
 Owners import their bank statements, count their stock and log cash and credit sales, and Bizi tells them what they made, who paid and what they can safely spend.
 
-- Product manager and ideator on a three-day team build: the idea was mine, and I set the product direction
+- Product manager and ideator on a three-day team build
 - Only confirmed money reaches the totals, and an ambiguous match stays a question for the owner instead of becoming a decision
 - Ask Bizi answers spending questions in English or Pidgin, and every naira figure it gives must trace back to the business's own records
 
