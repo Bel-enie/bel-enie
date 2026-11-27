@@ -1,6 +1,6 @@
 # Beloved Eniola 
 
-Full-stack developer and prompt engineer, studying Computer Engineering at Obafemi Awolowo University.
+Backend and prompt engineer, studying Computer Engineering at Obafemi Awolowo University.
 
 I use language models where judgment helps, with strict output schemas and guardrails, and deterministic rules where a decision has to be provable. Between semesters I've built an award-winning health AI, product-managed a team fintech build and placed top 10 nationally in PLC programming.
 
